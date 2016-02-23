@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Droid\test.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_15" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test\ListPage.xaml">
+    <Files>
+      <File FileName="test\test.cs" Line="40" Column="4" />
+      <File FileName="test\VerticalList.cs" Line="16" Column="22" />
+      <File FileName="test\ListPage.xaml" Line="7" Column="3" />
+      <File FileName="test\ListPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
